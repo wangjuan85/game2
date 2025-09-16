@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Inventory.ViewModels
+build_property.ProjectDir = C:\WH\InventorySample\src\Inventory.ViewModels\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,11 @@
+C:\WH\InventorySample\src\Inventory.Data\bin\x64\Debug\netstandard2.0\Inventory.Data.deps.json
+C:\WH\InventorySample\src\Inventory.Data\bin\x64\Debug\netstandard2.0\Inventory.Data.dll
+C:\WH\InventorySample\src\Inventory.Data\bin\x64\Debug\netstandard2.0\Inventory.Data.pdb
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.csproj.AssemblyReference.cache
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.AssemblyInfoInputs.cache
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.AssemblyInfo.cs
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.csproj.CoreCompileInputs.cache
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.sourcelink.json
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.dll
+C:\WH\InventorySample\src\Inventory.Data\obj\x64\Debug\netstandard2.0\Inventory.Data.pdb

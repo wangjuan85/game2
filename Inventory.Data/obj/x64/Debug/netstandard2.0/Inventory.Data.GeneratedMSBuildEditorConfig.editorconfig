@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Inventory.Data
+build_property.ProjectDir = C:\WH\InventorySample\src\Inventory.Data\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

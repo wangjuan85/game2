@@ -1,0 +1,1 @@
+C:\WH\InventorySample\src\Inventory.App\Inventory.App.csproj;x64
